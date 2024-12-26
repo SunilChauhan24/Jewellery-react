@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/jewellery-react/static/css/main.366da63c.css",
+    "main.js": "/jewellery-react/static/js/main.e5d3cfaf.js",
+    "static/media/Rectangle.png": "/jewellery-react/static/media/Rectangle.587a8695382db85c133c.png",
+    "static/media/Rectangle2.png": "/jewellery-react/static/media/Rectangle2.7be55c89cc14afa24f1d.png",
+    "static/media/Rectangle1.png": "/jewellery-react/static/media/Rectangle1.3496f8d4503bb784f661.png",
+    "static/media/fa-solid-900.ttf": "/jewellery-react/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/Banner1.png": "/jewellery-react/static/media/Banner1.1df865fead972635462a.png",
+    "static/media/earings6.webp": "/jewellery-react/static/media/earings6.f3b87373e17417fd439c.webp",
+    "static/media/fa-brands-400.ttf": "/jewellery-react/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/jewellery-react/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/jewellery-react/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/earings7.webp": "/jewellery-react/static/media/earings7.00c6888159a6bf801469.webp",
+    "static/media/earings4.avif": "/jewellery-react/static/media/earings4.3bdcbfcdf5a37c855921.avif",
+    "static/media/necklaces.avif": "/jewellery-react/static/media/necklaces.330fa686527a7b042a89.avif",
+    "static/media/fa-regular-400.ttf": "/jewellery-react/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/earings5.webp": "/jewellery-react/static/media/earings5.4746b079108692e131ff.webp",
+    "static/media/rings3.jpg": "/jewellery-react/static/media/rings3.3227e5761ad6b59486ec.jpg",
+    "static/media/fa-regular-400.woff2": "/jewellery-react/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/neklace3.avif": "/jewellery-react/static/media/neklace3.dae79e41c586cba15b9f.avif",
+    "static/media/neklace8.avif": "/jewellery-react/static/media/neklace8.622ed0a96c9bd7e4dd04.avif",
+    "static/media/neklace5.avif": "/jewellery-react/static/media/neklace5.cea0afeb698e8077abad.avif",
+    "static/media/goldbracelet.avif": "/jewellery-react/static/media/goldbracelet.400cbb77425ca19061ae.avif",
+    "static/media/neklace7.avif": "/jewellery-react/static/media/neklace7.4fee0b05969d52ce70ff.avif",
+    "static/media/rings4.jpg": "/jewellery-react/static/media/rings4.5ae7e65d2fa082c2c70d.jpg",
+    "static/media/ring.avif": "/jewellery-react/static/media/ring.92e87d198b98bdcd54f2.avif",
+    "static/media/neklace6.avif": "/jewellery-react/static/media/neklace6.f75a25124b1464953442.avif",
+    "static/media/neklace88.avif": "/jewellery-react/static/media/neklace88.f75a25124b1464953442.avif",
+    "static/media/heart1.webp": "/jewellery-react/static/media/heart1.99319938222b9d4919fc.webp",
+    "static/media/fa-v4compatibility.ttf": "/jewellery-react/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/jewellery-react/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/jewellery-react/index.html",
+    "main.366da63c.css.map": "/jewellery-react/static/css/main.366da63c.css.map",
+    "main.e5d3cfaf.js.map": "/jewellery-react/static/js/main.e5d3cfaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.366da63c.css",
+    "static/js/main.e5d3cfaf.js"
+  ]
+}
