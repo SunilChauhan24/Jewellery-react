@@ -4,6 +4,7 @@ import logo from "../Img/logo-70.png";
 import { FaSearch, FaShoppingCart, FaUser } from "react-icons/fa";
 import { IoMdArrowDropdown } from "react-icons/io";
 
+
 function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isCollectionsOpen, setIsCollectionsOpen] = useState(false);
