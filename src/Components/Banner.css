@@ -1,0 +1,69 @@
+.banner-container {
+  position: relative; 
+  width: 1400px; 
+  height: 550px; 
+  overflow: hidden; 
+  top: 50px;
+}
+
+.banner-image {
+  width: 100%; 
+  height: 500px; 
+  object-fit: cover; 
+  overflow: hidden;
+}
+
+.banner-content {
+  position: absolute; /* Position content on top of the image */
+  top: 0;
+  left: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white; /* Text color */
+}
+
+.text-content {
+  text-align: left;
+  max-width: 600px;
+  padding: 20px;
+}
+
+.text-content h4 {
+  font-size: 1.2rem;
+  letter-spacing: 2px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.text-content h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+
+.text-content p {
+  font-size: 1rem;
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+
+.explore-button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: 600;
+  background-color: white;
+  color: #b03545;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.explore-button:hover {
+  background-color: #b03545;
+  color: white;
+}
